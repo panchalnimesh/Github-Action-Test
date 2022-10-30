@@ -1,0 +1,10 @@
+name: Nimesh
+age: 38
+address: "dahisar: broivali"
+active: true
+key:
+  key: value
+  key2: 3343
+  key3: 
+    key: value
+    key2: value
