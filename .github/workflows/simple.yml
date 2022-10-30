@@ -23,7 +23,7 @@ jobs:
       - name: Directory PowerShell
         run: |
           get-location
-          get-localuser
+          get-localuser | ft Name, LastLogin, Enabled
       - name: Directory Bash
         run: pwd
         shell: bash 
